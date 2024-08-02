@@ -8,6 +8,14 @@ body, h1, p {
 body {
     font-family: Arial, sans-serif;
     font-size: 20px;
+    body {
+        background-image: url('img/agro.png'); /* Caminho para a sua imagem de fundo */
+        background-size: cover; /* Faz a imagem cobrir todo o fundo da página */
+        background-position: center; /* Centraliza a imagem no fundo */
+        background-repeat: no-repeat; /* Impede que a imagem se repita */
+        background-attachment: fixed; /* Faz a imagem de fundo ficar fixa enquanto rola o conteúdo */
+    }
+    
 }
 
 .container {
