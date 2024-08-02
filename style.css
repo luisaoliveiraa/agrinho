@@ -11,12 +11,6 @@ body {
     background-color: darkolivegreen;
 }
 
-header {
-    background: rgba(0, 0, 0, 0.7); /* Fundo escuro semi-transparente para o cabeçalho */
-    color: #fff;
-    padding: 1rem 0;
-    text-align: center;
-}
 
 header h1 {
     margin-bottom: 0.5rem;
