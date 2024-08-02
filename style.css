@@ -13,11 +13,11 @@ body {
 header {
     background: rgba(0, 0, 0, 0.6); /* Fundo escuro semi-transparente para o cabeçalho */
     color: #fff;
-    padding: 1rem 0;
+    padding: 1 rem 0;
 }
 
 .container {
-    width: 80%;
+    width: 80 %;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
