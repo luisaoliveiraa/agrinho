@@ -11,11 +11,6 @@ body {
     background-color: darkolivegreen;
 }
 
-
-header h1 {
-    margin-bottom: 0.5rem;
-}
-
 nav ul {
     list-style: none;
     display: flex;
